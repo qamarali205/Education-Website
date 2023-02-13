@@ -1,3 +1,3 @@
-# html-css-js-project-boilerplate
+# html-css-js-project
 
-Movies Booking App
+Education Website
